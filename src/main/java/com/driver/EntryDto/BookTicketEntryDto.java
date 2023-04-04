@@ -41,7 +41,7 @@ public class BookTicketEntryDto {
     public BookTicketEntryDto() {
     }
 
-    public List<Integer> getPassengerIds() {
+    public Integer getPassengerIds() {
         return passengerIds;
     }
 
